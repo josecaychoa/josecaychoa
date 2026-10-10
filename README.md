@@ -37,13 +37,6 @@ Actualmente lidero proyectos de implementación de **INSIS** (core insurance de 
 
 ## Proyectos Destacados
 
-### 🔵 [DataScale — Benchmark de Herramientas para Datos a Gran Escala](https://github.com/josecaychoa/data-scale-benchmark)
-> Comparativa reproducible de Excel, Power BI, PostgreSQL y Python (Pandas/Polars/DuckDB) con dataset sintético de hasta 10M filas. Métricas reales de tiempo, memoria y costo.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Status](https://img.shields.io/badge/status-en%20desarrollo-orange?style=flat)
 
 ---
 
