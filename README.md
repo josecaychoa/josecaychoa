@@ -1,6 +1,7 @@
 # José Caycho A.
 
 Business Analyst Senior · Procesos · Datos
+
 *Estrategia, procesos y datos.*
 
 Soy Contador Colegiado, DBA y Business Analyst. Trabajo desde hace más de 15 años en el mercado asegurador y financiero peruano, entre los procesos de negocio y las bases de datos que los sostienen.
