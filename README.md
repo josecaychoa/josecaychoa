@@ -4,7 +4,7 @@ Business Analyst Senior · Procesos · Datos
 
 *Estrategia, procesos y datos.*
 
-Soy Contador Colegiado, DBA y Business Analyst. Trabajo desde hace más de 15 años en el mercado asegurador y financiero peruano, entre los procesos de negocio y las bases de datos que los sostienen.
+Soy Contador Colegiado y Business Analyst. Trabajo desde hace más de 15 años en el mercado asegurador y financiero peruano, entre los procesos de negocio y las bases de datos que los sostienen.
 
 En este perfil publico un proyecto de analítica de datos al mes, con datos públicos de la SBS y el BCRP o con datos sintéticos. Cada repositorio se puede reproducir desde cero y cada cifra lleva su fuente oficial.
 
