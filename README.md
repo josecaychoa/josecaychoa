@@ -1,6 +1,6 @@
 # José Caycho A.
 
-Business Analyst Senior · Procesos · Datos
+Business Analyst Senior · Contador · Procesos · Datos
 
 *Estrategia, procesos y datos.*
 
