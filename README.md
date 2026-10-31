@@ -1,10 +1,10 @@
 # José Caycho A.
 
-Business Analyst Senior · Contador · Procesos · Datos
+Business Analyst Senior y DBA · Procesos · Datos
 
 *Estrategia, procesos y datos.*
 
-Soy Contador y Business Analyst Senior. Trabajo desde hace más de 18 años en el mercado asegurador y financiero peruano, entre los procesos de negocio y las bases de datos que los sostienen.
+Soy Business Analyst Senior, DBA y Contador Colegiado. Trabajo desde hace más de 18 años en el mercado asegurador y financiero peruano, entre los procesos de negocio y las bases de datos que los sostienen.
 
 En este perfil publico un proyecto de analítica de datos al mes, con datos públicos de la SBS y el BCRP o con datos simulados. Cada repositorio se puede reproducir desde cero y cada cifra lleva su fuente oficial.
 
@@ -14,7 +14,7 @@ El índice de proyectos está en [portafolio-analitica-seguros-finanzas](https:/
 
 | Proyecto | Tema | Estado |
 |---|---|---|
-| PF-01 | [Producción y siniestralidad por riesgo del mercado asegurador peruano, 2019-2026](https://github.com/josecaychoa/pf-01-siniestralidad-sbs) | En preparación (publicación: 26 de noviembre de 2026) |
+| PF-01 | [Producción y siniestralidad por riesgo del mercado asegurador peruano, 2019-2026](https://github.com/josecaychoa/pf-01-siniestralidad-sbs) | En preparación (publicación: 12 de noviembre de 2026) |
 
 ## Cómo trabajo
 
@@ -25,7 +25,9 @@ El índice de proyectos está en [portafolio-analitica-seguros-finanzas](https:/
 
 ## Herramientas
 
-Oracle SQL y PL/SQL · SQL Server · PostgreSQL · Python · Power BI · Kafka y Spark · RAG con pgvector · n8n
+Demostradas en el portafolio: Oracle SQL · Python · Power BI · Microsoft Project · Visio · BPMN con Bizagi
+
+Experiencia: PL/SQL · SQL Server (SSIS y SSRS) · PostgreSQL · SAP · INSIS · Kafka y Spark · RAG con pgvector · n8n
 
 ## Contacto
 
