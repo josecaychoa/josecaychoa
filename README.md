@@ -14,7 +14,7 @@ El índice de proyectos está en [portafolio-analitica-seguros-finanzas](https:/
 
 | Proyecto | Tema | Estado |
 |---|---|---|
-| PF-01 | [Producción y siniestralidad por riesgo del mercado asegurador peruano, 2019-2026](https://github.com/josecaychoa/pf-01-siniestralidad-sbs) | Terminado (v1.1.0) · publicación en LinkedIn: 12 de noviembre de 2026 |
+| PF-01 | [Producción y siniestralidad por riesgo del mercado asegurador peruano, 2019-2026](https://github.com/josecaychoa/pf-01-siniestralidad-sbs) | Publicado (2 de noviembre de 2026) |
 
 ## Cómo trabajo
 
