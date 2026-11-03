@@ -6,7 +6,7 @@ Business Analyst Senior y DBA · Procesos · Datos
 
 Soy Business Analyst Senior, DBA y Contador. Trabajo desde hace más de 18 años en el mercado asegurador y financiero peruano, entre los procesos de negocio y las bases de datos que los sostienen.
 
-En este perfil publico un proyecto de analítica de datos públicos de la SBS y el BCRP o con datos simulados. Cada repositorio se puede reproducir desde cero y cada cifra lleva su fuente oficial.
+En este perfil publico proyectos de analítica con datos públicos de la SBS y el BCRP o con datos simulados. Cada repositorio se puede reproducir desde cero y cada cifra lleva su fuente oficial.
 
 ## Portafolio de analítica
 
@@ -14,11 +14,11 @@ El índice de proyectos está en [portafolio-analitica-seguros-finanzas](https:/
 
 | Proyecto | Tema | Estado |
 |---|---|---|
-| PF-01 | [Producción y siniestralidad por riesgo del mercado asegurador peruano, 2019-2026](https://github.com/josecaychoa/pf-01-siniestralidad-sbs) | En preparación (publicación: 12 de noviembre de 2026) |
+| PF-01 | [Producción y siniestralidad por riesgo del mercado asegurador peruano, 2019-2026](https://github.com/josecaychoa/pf-01-siniestralidad-sbs) | Terminado (v1.1.0) · publicación en LinkedIn: 12 de noviembre de 2026 |
 
 ## Cómo trabajo
 
-- Un repositorio por proyecto, planificado con acta, EDT y cronograma, y gestionado con issues y GitHub Projects.
+- Un repositorio por proyecto, planificado con acta, EDT y cronograma, y gestionado con issues en un [tablero público de GitHub Projects](https://github.com/users/josecaychoa/projects/1).
 - SQL pensado primero para Oracle, con variante para SQL Server cuando aplica.
 - Python con uv, ruff y pytest; integración continua en cada cambio.
 - Solo datos públicos o simulados. Ningún dato personal ni información confidencial de terceros.
