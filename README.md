@@ -21,7 +21,7 @@ El índice de proyectos está en [portafolio-analitica-seguros-finanzas](https:/
 - Un repositorio por proyecto, planificado con acta, EDT y cronograma, y gestionado con issues y GitHub Projects.
 - SQL pensado primero para Oracle, con variante para SQL Server cuando aplica.
 - Python con uv, ruff y pytest; integración continua en cada cambio.
-- Solo datos públicos o sintéticos. Ningún dato personal ni información confidencial de terceros.
+- Solo datos públicos o simulados. Ningún dato personal ni información confidencial de terceros.
 
 ## Herramientas
 
